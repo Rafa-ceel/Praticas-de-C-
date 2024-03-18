@@ -1,0 +1,14 @@
+/home/rafael/Área de Trabalho/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter
+/home/rafael/Área de Trabalho/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.deps.json
+/home/rafael/Área de Trabalho/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.runtimeconfig.json
+/home/rafael/Área de Trabalho/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.dll
+/home/rafael/Área de Trabalho/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.pdb
+/home/rafael/Área de Trabalho/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael/Área de Trabalho/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfoInputs.cache
+/home/rafael/Área de Trabalho/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfo.cs
+/home/rafael/Área de Trabalho/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.csproj.CoreCompileInputs.cache
+/home/rafael/Área de Trabalho/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.dll
+/home/rafael/Área de Trabalho/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/refint/Starter.dll
+/home/rafael/Área de Trabalho/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.pdb
+/home/rafael/Área de Trabalho/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
+/home/rafael/Área de Trabalho/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/ref/Starter.dll
